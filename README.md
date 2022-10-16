@@ -28,5 +28,5 @@ We need to add two for loops, first one that will list the voting methods and th
 
 For the election purpose we just need to indicate in the f-string the purpose.
 
-**Alejandro Madrigal
-Data Analysis**
+**Alejandro Madrigal**
+**Data Analysis**
