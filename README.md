@@ -16,11 +16,17 @@ Total votes: 369,711
   - Charles Stockham:  23.0%;  85,213 votes
   - Raymon Doane:      3.1%;   11,606 votes
 
+#### Looking forward with election audits
 
- 
- 
+For further elections this same analysis can be used using the same code but we can add extra value to it by using other known data like the voting method summary and also specifying the election purpose; U.S. congressional / Senator / Local election)
 
+Once we receive the voting method data we need to add three variables to the code:
+- Voting method list
+- Voting method dictionary
+- Each method count
+We need to add two for loops, first one that will list the voting methods and then another that will count each method
 
+For the election purpose we just need to indicate in the f-string the purpose.
 
-
-
+**Alejandro Madrigal
+Data Analysis
